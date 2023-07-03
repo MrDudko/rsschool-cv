@@ -83,3 +83,14 @@ header {
   animation-duration: 1s;
   animation-fill-mode: forwards;
 }
+
+/*main*/
+
+.container-main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  width: 50%;
+}
